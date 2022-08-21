@@ -19,7 +19,7 @@ figcaption {
 	width: 720px;
 	height: 360px;
 	margin: 0 auto;
-	background: #000 url(../images/loading.gif) center/300px no-repeat;
+	background: #000 url(https://raw.githubusercontent.com/xiaomutongxue/VideoPlay-Demo/master/images/loading.gif) center/300px no-repeat;
 	position: relative;
 }
 
